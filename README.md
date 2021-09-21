@@ -1,6 +1,14 @@
 # MESMER Training
 
 This WIPP Plugin trains PanopticNet using MESMER Pipeline.
+Paper - 
+Whole-cell segmentation of tissue images with human-level performance using large-scale data annotation and deep learning
+Noah F. Greenwald, Geneva Miller, Erick Moen, Alex Kong, Adam Kagel, Christine Camacho Fullaway, Brianna J. McIntosh, Ke Leow, Morgan Sarah Schwartz, Thomas Dougherty, Cole Pavelchek, Sunny Cui, Isabella Camplisson, Omer Bar-Tal, Jaiveer Singh, Mara Fong, Gautam Chaudhry, Zion Abraham, Jackson Moseley, Shiri Warshawsky, Erin Soon, Shirley Greenbaum, Tyler Risom, Travis Hollmann, Leeat Keren, Will Graf, Michael Angelo, David Van Valen
+bioRxiv 2021.03.01.431313; doi: https://doi.org/10.1101/2021.03.01.431313
+
+API reference - 
+https://deepcell.readthedocs.io/en/master/API/deepcell.html 
+https://deepcell.readthedocs.io/en/master/notebooks/Training-Segmentation.html
 
 Contact [Vishakha Goyal](mailto:vishakha.goyal@nih.gov) for more information.
 
