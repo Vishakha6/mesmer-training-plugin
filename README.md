@@ -7,7 +7,8 @@ Noah F. Greenwald, Geneva Miller, Erick Moen, Alex Kong, Adam Kagel, Christine C
 bioRxiv 2021.03.01.431313; doi: https://doi.org/10.1101/2021.03.01.431313
 
 API reference - 
-https://deepcell.readthedocs.io/en/master/API/deepcell.html 
+https://deepcell.readthedocs.io/en/master/API/deepcell.html
+
 https://deepcell.readthedocs.io/en/master/notebooks/Training-Segmentation.html
 
 Contact [Vishakha Goyal](mailto:vishakha.goyal@nih.gov) for more information.
