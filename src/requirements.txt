@@ -1,2 +1,3 @@
 
-numpy==1.19.1
+deepcell==0.10.0
+imagecodecs
